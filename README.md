@@ -32,10 +32,10 @@ Fresh out of school. I believe the best way to learn how agents work is to **bui
 
 ## 🛠️ Tech Stack
 
-| Backend | Frontend | Infra |
-|---------|---------|-------|
-| Java 17 · Spring Boot 3.5 | Vue 3 · TypeScript · GSAP | Docker · Cloudflare Tunnel |
-| Spring AI · MyBatis-Plus | Pinia · Vite | MySQL · Redis · RabbitMQ · Vercel |
+| Backend | Frontend | AI / Python | Infra |
+|---------|---------|-------------|-------|
+| Java 17 · Spring Boot 3.5 | Vue 3 · TypeScript · GSAP | Python · PyTorch · Transformers | Docker · Cloudflare Tunnel |
+| Spring AI · MyBatis-Plus | Pinia · Vite | LangChain · OpenAI SDK · DeepSeek | MySQL · Redis · RabbitMQ · Vercel |
 
 ---
 
