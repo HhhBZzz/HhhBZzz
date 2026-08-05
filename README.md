@@ -2,58 +2,50 @@
 
 # 👋 Hi, I'm Edwin Han
 
-### AI Agent Architect · Building tools that make agents visible
+### 刚毕业 · 在边做边学中构建 SpringClaw
+
+致力于让所有人都能看懂 Agent —— 也逼着自己学透它。
 
 </div>
 
 ---
 
-## 🦾 Current Focus — [SpringClaw](https://github.com/HhhBZzz/SpringClaw)
+## 🦾 我在做的事 — [SpringClaw](https://github.com/HhhBZzz/SpringClaw)
 
-**The Agent Runtime Where Every Thought Is Visible**
+一个开源的 AI Agent 运行时平台，目标是**让 Agent 的每一步思考都可见**。
 
-An open-source, self-hosted agent platform built on Java/Spring Boot + Vue 3/GSAP, where you can:
+- 🔀 7 种范式可切换（ReAct · Plan-Execute · Multi-Agent · Reflexion · ...）
+- 🎨 节点画布 + 光梭动效 + X-Ray 翻转看源码 —— 不只是跑，还能"看懂"
+- 🏗️ 10 层 harness 外壳全可视化（从鉴权到 meta-guard 到 SSE）
+- 🚀 已部署上线（Vercel + Cloudflare Tunnel）
 
-- 🔀 **Switch between 7 agent paradigms** at runtime (ReAct · Plan-Execute · OPAR · Multi-Agent · Reflexion · Autonomous · Single-Turn)
-- 🎨 **Watch the agent think** — a 2D Blueprint Canvas with light-shuttles racing along execution paths, neon node glows, and X-Ray flips revealing the actual Java code behind each step
-- 🏗️ **See the full product stack** — 10 layers of harness shells (auth → routing → model failover → tool governance → meta-guard → memory → SSE) unpacked as a visual assembly line
-- 🚀 **Deploy for ~$5/month** — Vercel + Cloudflare Tunnel (zero 备案) + any VPS
-
-**[🚀 Live Demo](https://spring-claw.vercel.app)** · **[📖 README](https://github.com/HhhBZzz/SpringClaw)** · **[⚙️ 119k lines of code](https://github.com/HhhBZzz/SpringClaw)**
+**[🚀 在线体验](https://spring-claw.vercel.app)** · **[📖 项目文档](https://github.com/HhhBZzz/SpringClaw)**
 
 ---
 
-## 🛠️ Tech I Build With
+## 📚 正在学习
 
-| Backend | Frontend | AI/ML | Infra |
-|---------|---------|-------|-------|
-| Java 17 · Spring Boot 3.5 | Vue 3 · Vite · TypeScript | Spring AI 1.1 | Docker · Docker Compose |
-| Spring AOP · MyBatis-Plus | GSAP 3.15 (Flip · MotionPath) | DeepSeek · Qwen | Cloudflare Tunnel |
-| Redis Stack · RabbitMQ | Pinia · Vue Router | Redis Vector Store | Vercel · Nginx |
+- 🇯🇵 **日本語** — 每天进步一点点
+- 🐹 **Go** — 从 Java 拓展到云原生
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 用过的技术
+
+`Java` `Spring Boot` `Vue 3` `TypeScript` `GSAP` `Docker` `MySQL` `Redis` `RabbitMQ` `Cloudflare` `Vercel`
+
+---
 
 <div align="center">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=HhhBZzz&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/HhhBZzz)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HhhBZzz&layout=compact&theme=dark&hide_border=true)](https://github.com/HhhBZzz)
-
 </div>
-
----
-
-## 🔗 Find Me
-
-- 🌐 **SpringClaw Demo**: [spring-claw.vercel.app](https://spring-claw.vercel.app)
-- 📧 **Email**: hhhbzzz777@gmail.com
 
 ---
 
 <div align="center">
 
-**⭐ [SpringClaw](https://github.com/HhhBZzz/SpringClaw) — if you believe agents should be observable, not opaque.**
+如果 SpringClaw 帮你理解了 Agent，欢迎 ⭐ [star](https://github.com/HhhBZzz/SpringClaw)
 
 </div>
